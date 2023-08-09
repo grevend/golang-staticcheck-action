@@ -1,3 +1,6 @@
+# 1.3.1
+- Update installed Go version from 1.19.x to 1.20.x
+
 # 1.3.0
 - Add the output-format option
 - Add the output-file option
